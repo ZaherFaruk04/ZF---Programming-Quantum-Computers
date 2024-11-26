@@ -1,0 +1,3 @@
+Source: https://youtu.be/YJhv4bhNf6M?si=bmXL5l8YC4BT8FNt
+This code it designed for a company that will be scheduling different events
+The first task is to schedule 5 different events on a Saturday and Sunday
