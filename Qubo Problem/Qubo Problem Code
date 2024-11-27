@@ -2,18 +2,10 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 3,
-   "id": "6b4447c0-c31e-4d93-a2dc-8bda5f466c47",
+   "execution_count": null,
+   "id": "4a84023f-3a7f-456d-85ca-e224baf907ba",
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "-6 * I(1) + (0.5 * Z(1)) @ Z(4) + (0.5 * Z(2)) @ Z(3) + (0.5 * Z(3)) @ Z(5) + (0.5 * Z(4)) @ Z(4)\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "import pennylane as qml\n",
     "from pennylane import numpy as np \n",
